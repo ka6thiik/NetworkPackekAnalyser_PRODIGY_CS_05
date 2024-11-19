@@ -20,4 +20,9 @@ This is a simple packet sniffer tool developed in Python using the **scapy** lib
   Install it via `pip`:
   pip install scapy
 
-  Npcap (Windows only): This is required for packet sniffing on Windows machines.
+  Npcap (Windows only):
+   This is required for packet sniffing on Windows machines.
+
+Run the Packet Sniffer: After setting up, run the Python script:
+
+python NetworkPacketAnalyser.py
